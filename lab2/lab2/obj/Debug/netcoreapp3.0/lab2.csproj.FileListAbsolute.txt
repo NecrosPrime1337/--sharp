@@ -1,0 +1,11 @@
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.csprojAssemblyReference.cache
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.AssemblyInfoInputs.cache
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.AssemblyInfo.cs
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.exe
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.deps.json
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.runtimeconfig.json
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.runtimeconfig.dev.json
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.dll
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.pdb
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.dll
+D:\докумасики\лабораторные по алгоритмизации\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.pdb
