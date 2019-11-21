@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text;
 using System.Threading;
 namespace ConsoleApplication1
@@ -183,9 +183,9 @@ namespace ConsoleApplication1
         static void autor(string[] args)
         {
 
-            Console.WriteLine("Работу выполнил студент группы 19ИЭ1БЗИ");
+            Console.WriteLine("Работу выполнил студент группы 19хз1");
             Console.WriteLine("");
-            Console.WriteLine("Иванов Евгений Андреевич");
+            Console.WriteLine("мое имя низя называть");
             Console.WriteLine("https://github.com/NecrosPrime/--sharp");
             Console.WriteLine("https://vk.com/0x000000000f");
             Console.WriteLine("нажмите любую кнопку для открытия пасхалочки...");
