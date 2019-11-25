@@ -1,0 +1,56 @@
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe.config
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\bin\Debug\Laboratory3.pdb
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form1.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Properties.Resources.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.exe
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.pdb
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form2.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form3.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form4.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form5.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form6.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form7.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form8.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form9.resources
+C:\Users\admin\source\repos\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form10.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe.config
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\bin\Debug\Laboratory3.pdb
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csprojAssemblyReference.cache
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form1.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form10.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form11.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form2.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form3.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form4.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form5.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form6.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form7.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form8.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form9.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Properties.Resources.resources
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csproj.GenerateResource.cache
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.exe
+C:\Users\inquisitor\Desktop\Laboratory3\Laboratory3\obj\Debug\Laboratory3.pdb
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe.config
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\bin\Debug\Laboratory3.pdb
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csprojAssemblyReference.cache
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form1.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form10.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form11.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form2.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form3.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form4.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form5.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form6.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form7.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form8.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Form9.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Properties.Resources.resources
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csproj.GenerateResource.cache
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.exe
+D:\докумасики\лабораторные по алгоритмизации\Laboratory3\Laboratory3\obj\Debug\Laboratory3.pdb
