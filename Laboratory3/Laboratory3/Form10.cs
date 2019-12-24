@@ -26,7 +26,7 @@ namespace Laboratory3
                 c = double.Parse(textBox2.Text);
                 a = double.Parse(textBox7.Text);
 
-                if ((a*a)*2 <= b*c)
+                if ((a*a)*2 >= b*c)
                 {
                     textBox8.Text = "можно вырезать";
                 }
