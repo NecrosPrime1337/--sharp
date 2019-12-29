@@ -1,0 +1,11 @@
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\bin\Debug\netcoreapp3.0\laboratory5.exe
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\bin\Debug\netcoreapp3.0\laboratory5.deps.json
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\bin\Debug\netcoreapp3.0\laboratory5.runtimeconfig.json
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\bin\Debug\netcoreapp3.0\laboratory5.runtimeconfig.dev.json
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\bin\Debug\netcoreapp3.0\laboratory5.dll
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\bin\Debug\netcoreapp3.0\laboratory5.pdb
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\obj\Debug\netcoreapp3.0\laboratory5.csprojAssemblyReference.cache
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\obj\Debug\netcoreapp3.0\laboratory5.AssemblyInfoInputs.cache
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\obj\Debug\netcoreapp3.0\laboratory5.AssemblyInfo.cs
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\obj\Debug\netcoreapp3.0\laboratory5.dll
+D:\докумасики\лабораторные по алгоритмизации\laboratory5\laboratory5\obj\Debug\netcoreapp3.0\laboratory5.pdb
