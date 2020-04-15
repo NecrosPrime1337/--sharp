@@ -7,11 +7,11 @@ namespace laboratory_1
     {
         private static readonly int x = 85;
         private static readonly int y = 43;
-        static Point p = new Point(0, 0 , ' ');
+       
         
         static public void Menu() 
         {
-            //string[] args
+            Console.Title = "Главное меню";
             Console.Clear();
             Console.SetWindowSize(x, y);
             Walls wall = new Walls(x, y);
@@ -37,8 +37,20 @@ namespace laboratory_1
                     lab1.menu();
                     break;
                 case 2:
-                    Lab1 lab2 = new Lab1();
-                    lab2.menu();
+                    Lab2 lab2 = new Lab2();
+                    lab2.run();
+                    break;
+                case 3:
+                    Lab3 lab3 = new Lab3();
+                    lab3.menu();
+                    break;
+                case 4:
+                    Lab4 lab4 = new Lab4();
+                    lab4.run();
+                    break;
+                case 5:
+                    Snake lab5 = new Snake(Snake.p, 4, Direction.RIGHT);
+                    lab5.Run();
                     break;
                 case 7:
                     //author.func not avaliable
