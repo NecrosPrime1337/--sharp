@@ -6,7 +6,7 @@ using System.Threading;
 
 namespace laboratory_1
 {
-    /*  class Snake : Figure
+     class Snake : Figure
       {
           Direction direction;
 
@@ -121,6 +121,6 @@ namespace laboratory_1
           }
       }
   }
-  */
+  
 
     
